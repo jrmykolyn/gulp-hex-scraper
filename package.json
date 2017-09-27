@@ -8,5 +8,7 @@
   },
   "author": "Jesse R Mykolyn",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "hex-scraper": "^0.1.0"
+  }
 }
