@@ -1,6 +1,6 @@
 {
   "name": "gulp-hex-scraper",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Gulp Hex Scraper is a wrapper around the Hex Scraper API.",
   "main": "index.js",
   "scripts": {
